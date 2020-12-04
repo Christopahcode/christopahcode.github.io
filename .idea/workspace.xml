@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8f5eb8a-57cb-41db-9e4f-40fac24a2e64" name="Default Changelist" comment="" />
+    <list default="true" id="f8f5eb8a-57cb-41db-9e4f-40fac24a2e64" name="Default Changelist" comment="RB-Maskin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,12 +70,16 @@
       <workItem from="1606993707677" duration="3285000" />
       <workItem from="1607038068717" duration="2947000" />
       <workItem from="1607043913830" duration="266000" />
-      <workItem from="1607044281141" duration="32793000" />
+      <workItem from="1607044281141" duration="33570000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RB-Maskin" />
+    <option name="LAST_COMMIT_MESSAGE" value="RB-Maskin" />
   </component>
   <component name="WindowStateProjectService">
     <state x="944" y="384" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606913725246">
@@ -86,9 +90,29 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1007" y="395" key="FileChooserDialogImpl/0.0.2560.1400/2560.-245.1920.1040@0.0.2560.1400" timestamp="1606728975760" />
+    <state x="1123" y="571" key="Github.ShareDialog" timestamp="1607078422354">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1123" y="571" key="Github.ShareDialog/0.0.2560.1400/2560.-245.1920.1040@0.0.2560.1400" timestamp="1607078422354" />
+    <state x="772" y="367" key="Vcs.Push.Dialog.v2" timestamp="1607078342413">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="772" y="367" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-245.1920.1040@0.0.2560.1400" timestamp="1607078342413" />
+    <state x="1075" y="369" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1607078447159">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1075" y="369" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.2560.1400/2560.-245.1920.1040@0.0.2560.1400" timestamp="1607078447159" />
+    <state x="1048" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607078474335">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1048" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.-245.1920.1040@0.0.2560.1400" timestamp="1607078474335" />
     <state x="2560" y="-245" width="1932" height="1090" key="dock-window-1" timestamp="1606748907148">
       <screen x="2560" y="-245" width="1920" height="1040" />
     </state>
     <state x="2560" y="-245" width="1932" height="1090" key="dock-window-1/0.0.2560.1400/2560.-245.1920.1040@0.0.2560.1400" timestamp="1606748907148" />
+    <state x="870" y="576" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607078375727">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="870" y="576" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400/2560.-245.1920.1040@0.0.2560.1400" timestamp="1607078375727" />
   </component>
 </project>
