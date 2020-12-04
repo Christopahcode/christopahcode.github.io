@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8f5eb8a-57cb-41db-9e4f-40fac24a2e64" name="Default Changelist" comment="RB-Maskin" />
+    <list default="true" id="f8f5eb8a-57cb-41db-9e4f-40fac24a2e64" name="Default Changelist" comment="RB-Maskin">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/terrains/terrainSmall_HEIGHTMAP.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/terrains/terrainSmall_HEIGHTMAP.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +51,7 @@
       <recent name="D:\Datamaskingrafikk\RBMaskin\models" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Datamaskingrafikk\RBMaskin" />
       <recent name="D:\Datamaskingrafikk\RBMaskin\lib" />
       <recent name="D:\Datamaskingrafikk\RBMaskin\js\objects\Dumbell" />
       <recent name="D:\Datamaskingrafikk\RBMaskin\js\objects\dominoStep" />
@@ -70,8 +75,15 @@
       <workItem from="1606993707677" duration="3285000" />
       <workItem from="1607038068717" duration="2947000" />
       <workItem from="1607043913830" duration="266000" />
-      <workItem from="1607044281141" duration="33570000" />
+      <workItem from="1607044281141" duration="34750000" />
     </task>
+    <task id="LOCAL−00001" summary="RB-Maskin">
+      <created>1607079138664</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1607079138664</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,10 +106,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1123" y="571" key="Github.ShareDialog/0.0.2560.1400/2560.-245.1920.1040@0.0.2560.1400" timestamp="1607078422354" />
-    <state x="772" y="367" key="Vcs.Push.Dialog.v2" timestamp="1607078342413">
+    <state x="772" y="367" key="Vcs.Push.Dialog.v2" timestamp="1607079163374">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="772" y="367" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-245.1920.1040@0.0.2560.1400" timestamp="1607078342413" />
+    <state x="772" y="367" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.-245.1920.1040@0.0.2560.1400" timestamp="1607079163374" />
     <state x="1075" y="369" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1607078447159">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

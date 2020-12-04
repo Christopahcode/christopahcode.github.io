@@ -49,8 +49,7 @@ export function createTerrainSmall_HEIGHTMAP(){
         bumpScale: 0.0005
     } );*/
    floorMat =  new THREE.MeshPhongMaterial({
-       roughness: 0.8,
-       metalness: 0.7,
+
        color: 0xff2500,
        opacity: 0.5,
        transparent: true,
@@ -138,7 +137,7 @@ function createTerrainShape() {
 function loadTexture(){
     textureLoader = new THREE.TextureLoader();
 
-    textureLoader.load( "../textures/hardwood2_diffuse.jpg", function ( map ) {
+    textureLoader.load( "./textures/hardwood2_diffuse.jpg", function ( map ) {
 
         map.wrapS = THREE.RepeatWrapping;
         map.wrapT = THREE.RepeatWrapping;
@@ -149,7 +148,7 @@ function loadTexture(){
         floorMat.needsUpdate = true;
 
     } );
-    textureLoader.load( "../textures/hardwood2_bump.jpg", function ( map ) {
+    textureLoader.load( "./textures/hardwood2_bump.jpg", function ( map ) {
 
         map.wrapS = THREE.RepeatWrapping;
         map.wrapT = THREE.RepeatWrapping;
@@ -159,7 +158,7 @@ function loadTexture(){
         floorMat.needsUpdate = true;
 
     } );
-    textureLoader.load( "../textures/hardwood2_roughness.jpg", function ( map ) {
+    textureLoader.load( "./textures/hardwood2_roughness.jpg", function ( map ) {
 
         map.wrapS = THREE.RepeatWrapping;
         map.wrapT = THREE.RepeatWrapping;
