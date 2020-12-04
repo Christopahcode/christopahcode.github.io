@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RB-MASKIN-CGA015</title>
+</head>
+
+<body>
+
+<div id="container"><br /><br /><br /><br /><br />Loading...
+</div>
+<script src="../lib/ammo/ammo.js-master/builds/ammo.js"></script>
+<script src="../lib/ammo/ammo.js-master/builds/ammo.wasm.js"></script>
+<script type="module">
+    'use strict';
+    import {start} from "../js/main.js";
+    //Ammojs Initialization
+    Ammo().then(function(){
+        start(); });
+</script>
+</body>
+</html>
